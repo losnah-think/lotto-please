@@ -1,6 +1,6 @@
 {
-  "short_name": "LOTTO PLEASE",
-  "name": "This is a project that embodies the hopes of many people who wish to win the lottery.",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
